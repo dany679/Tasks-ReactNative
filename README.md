@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="task-manager" width=30% src="./home1.jpeg" >
-  <img alt="task-manager"  width=30%  src="./home2.jpeg">
+  <img alt="task-manager"  width=30% src="./home2.jpeg">
   <img alt="task-manager"  width=30% src="./home3.jpeg">
 </p>
 <!-- <p>Link para visitar o site : 
